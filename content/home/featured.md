@@ -4,8 +4,8 @@
 # `featured = true` in their front matter.
 
 widget = "featured"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
